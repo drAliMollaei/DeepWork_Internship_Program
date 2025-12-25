@@ -12,3 +12,7 @@ Session_intro_1/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
 Session_intro_1/data/FashionMNIST/raw/train-images-idx3-ubyte
 Session_intro_1/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
 Session_intro_1/data/FashionMNIST/raw/train-labels-idx1-ubyte
+/Session_5_transformers_1
+/Session_5_transformers_1
+Session_5_transformers_1/Pytorch Transformers from Scratch (Attention is all you need).mp4
+Session_5_transformers_1/Pytorch Transformers for Machine Translation.mp4
