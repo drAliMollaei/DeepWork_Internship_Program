@@ -1,6 +1,7 @@
 ## Session_1 :
  - ### Datasets Address:
     - https://drive.google.com/drive/folders/1180Mk8jvc2uZisP-BVh6ssApY3nnZQQG?usp=sharing
+    - https://github.com/drAliMollaei/DeepWork_Internship_Program/blob/main/Session_intro_1/iris.csv
  - ### Videos :
    - Session_1--1 1 PytorchBasics : https://youtu.be/MPomW_NKpsM
    - Session_1--2 0 LoadData from GoogleDrive : https://youtu.be/8iIRBmudY1M
@@ -45,6 +46,7 @@
 
 ## Session_4_part2 :
  - ### Datasets Address:
+   - https://drive.google.com/file/d/1nza1jkRmq9hp2jlQxHopHs9WaU9GsO2P/view?usp=drive_link
  - ### Videos :
    - Sessio_4-part2-1 preprocssing : https://youtu.be/g10Rn-weJ90
    - Sessio_4-part2-2 model : https://youtu.be/H5hM34gRItA
