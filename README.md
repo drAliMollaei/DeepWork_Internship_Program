@@ -69,6 +69,10 @@
 
 ## Session_6 :
  - ### Datasets Address:
+   - https://drive.google.com/drive/folders/1O6aRCPUqI_uf4dOt3kaiyWzw4pg7W2xR?usp=drive_link
+ - ### Models :
+   - https://drive.google.com/drive/folders/1iVmqQIo6R1dO9NPhFctDIEKuxSah0Imj?usp=drive_link
+   - https://drive.google.com/file/d/1Rf-z2JPLormEDE-WpzDfXjjoYRz2mC5I/view?usp=drive_link
  - ### Videos :
    - Session_6-QA Yasin : https://youtu.be/JK7dQRdqeFk
 
