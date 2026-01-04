@@ -32,7 +32,7 @@
 
 ## Session_4 :
  - ### Datasets Address:
-   - https://drive.google.com/file/d/1TclVQ2q4u0IOlqP0Kum3B55jnV6OZSJc/view?usp=drive_link
+   - https://drive.google.com/file/d/1W_W0_tBYDO9jfmTVUAwzKr4xl90nfoDU/view?usp=sharing
  - ### Videos :
    - Session_4-part1-Transposed conv 2d : https://youtu.be/QsMNplRywag
    - Session_4_part1-- GAM Microproject 1 : https://youtu.be/RKho2dy5eYU
