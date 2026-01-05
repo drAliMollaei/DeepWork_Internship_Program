@@ -77,7 +77,6 @@
    - Session_6-QA Yasin : https://youtu.be/JK7dQRdqeFk
 
 ## Session_7 (RAG) :
- - ### Datasets Address:
  - ### Models :
    - https://drive.google.com/drive/folders/1hKNp2NbVnDGC3FszcYWS8hLnvj48971q?usp=drive_link
  - ### Videos :
