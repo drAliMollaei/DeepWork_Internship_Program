@@ -67,7 +67,6 @@
    - Session_5-Introduction2Transformers 5 : https://youtu.be/DvMvYbKH768
    - Session_5-Introduction2Transformers 6 : https://youtu.be/7pnJe_aoorI
    - Session_5-Pytorch Transformers from Scratch Attention is all you need : https://youtu.be/9pCEVMvCZkk
-   - Session_5-Pytorch Transformers from Scratch Attention is all you need : https://youtu.be/yWsRiRTsbXE
  - ### Datasets Address:
    - https://github.com/drAliMollaei/DeepWork_Internship_Program/blob/main/Session_5_transformers_1/RayaSent_balanced_data.xlsx
 
