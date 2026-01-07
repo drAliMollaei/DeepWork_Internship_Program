@@ -52,6 +52,8 @@
    - Sessio_4-part2-2 model : https://youtu.be/H5hM34gRItA
  - ### Datasets Address:
    - https://drive.google.com/file/d/1nza1jkRmq9hp2jlQxHopHs9WaU9GsO2P/view?usp=drive_link
+ - ### Models :
+   - https://github.com/drAliMollaei/DeepWork_Internship_Program/blob/main/Session_GAN_4_part_2/code%2Bdata/weights/generator.pt
 
 ## Session_5 (transformers) :
  - ### Videos :
